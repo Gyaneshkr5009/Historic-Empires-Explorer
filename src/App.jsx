@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import { SideBar, Header } from './component';
 import EmpireCarousel from './component/EmpireCarousel';
 import empireData from './Services/Test';
+import Map from './component/Map'
 
 const App = () => {
   const [selectedCountry, setSelectedCountry] = useState('');
@@ -13,26 +14,31 @@ const App = () => {
       {/* Header */}
       <Header />
 
-      <div className="grid grid-cols-1 md:grid-cols-4 gap-4">
-        {/* Left Side Bar */}
-        <div className="col-span-1">
-          <SideBar
-            selectedCountry={selectedCountry}
-            setSelectedCountry={setSelectedCountry}
-          />
-        </div>
+      {/* Main Content */}
+      <div className="flex">
+        {/* Left Sidebar */}
+        <SideBar
+          selectedCountry={selectedCountry}
+          setSelectedCountry={setSelectedCountry}
+        />
 
-        {/* Right Side - Google Map & Carousel */}
-        <div className="col-span-1 md:col-span-3 relative">
-          {/* Future Map Area */}
-          <div className="h-[calc(100vh-80px)]">
-            <p className="text-center pt-10 text-xl text-gray-400">
-              Map and country data will appear here.
-            </p>
-          </div>
-
-          {/* Empire Carousel */}
-          <EmpireCarousel empires={empires} />
+        {/* Right Content */}
+        <div className="w-full md:w-3/4 flex flex-col h-[calc(100vh-80px)] overflow-y-auto relative">
+          {selectedCountry ? (
+            // Content when country is selected
+            <div className="p-4 md:ml-64"> {/* Added margin to account for vertical carousel */}
+              {/* Your main content here */}
+              {/* EmpireCarousel is now positioned independently */}
+              <EmpireCarousel empires={empires} />
+            </div>
+          ) : (
+            // Placeholder when no country is selected
+            <div className="flex-1 flex items-center justify-center">
+              <p className="text-center text-xl text-gray-400">
+                <Map />
+              </p>
+            </div>
+          )}
         </div>
       </div>
     </div>
