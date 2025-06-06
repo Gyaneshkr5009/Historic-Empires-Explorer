@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { SideBar, Header } from './component';
 import EmpireCarousel from './component/EmpireCarousel';
-import empireData from './Services/Test';
+import empireData from './Services/Emperiors';
 import Map from './component/Map'
 
 const App = () => {

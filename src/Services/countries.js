@@ -258,7 +258,7 @@ const countries = [
     code3: "CYP"
   },
   {
-    name: "Czechia (Czech Republic)",
+    name: "Czech Republic",
     flag: "https://flagcdn.com/cz.svg",
     code: "CZ",
     code3: "CZE"
