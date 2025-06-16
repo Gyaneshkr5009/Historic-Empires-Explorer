@@ -468,6 +468,38 @@ const empireData = {
       emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg"
     }
   ],
+  Bhutan: [
+    {
+      name: "Ancient Bhutan",
+      duration: "Pre-7th century",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bhutanese_dragon.svg",
+    },
+    {
+      name: "Tibetan Influence Period",
+      duration: "7th – 9th century",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tibetan_symbol.svg"
+    },
+    {
+      name: "Lhomon Period",
+      duration: "9th – 12th century",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bhutan_ancient_symbol.svg"
+    },
+    {
+      name: "Dual System of Government",
+      duration: "12th – 17th century",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bhutan_dual_system.svg"
+    },
+    {
+      name: "Zhabdrung Era",
+      duration: "1616 – 1907",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zhabdrung_symbol.svg"
+    },
+    {
+      name: "Wangchuck Dynasty",
+      duration: "1907 – Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+    }
+  ],
   Bolivia: [
     {
       name: "Tiwanaku Empire",
@@ -2911,6 +2943,55 @@ const empireData = {
     }
   ],
   //now countries that starts with letter 'N'
+  Namibia: [
+    {
+      name: "San Hunter-Gatherers",
+      duration: "Pre-14th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/53/San_Rock_Art.svg"
+    },
+    {
+      name: "Bantu Migrations",
+      duration: "14th–18th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Bantu_Expansion.svg"
+    },
+    {
+      name: "German South-West Africa",
+      duration: "1884–1915 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Germany.svg"
+    },
+    {
+      name: "South African Rule",
+      duration: "1915–1990 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa_1928-1994.svg"
+    },
+    {
+      name: "Modern Namibia",
+      duration: "1990–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg"
+    }
+  ],
+  Nauru: [
+    {
+      name: "Indigenous Nauruan Tribes",
+      duration: "Pre-1888 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/30/Nauruan_12-pointed_star.svg"
+    },
+    {
+      name: "German Colonial Period",
+      duration: "1888–1914 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Germany.svg"
+    },
+    {
+      name: "Australian Trusteeship",
+      duration: "1914–1968 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia.svg"
+    },
+    {
+      name: "Modern Nauru",
+      duration: "1968–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg"
+    }
+  ],
   Nepal: [
     {
       name: "Gopala Dynasty",
@@ -2948,39 +3029,1103 @@ const empireData = {
       emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg"
     }
   ],
-  Bhutan: [
+  Netherlands: [
     {
-      name: "Ancient Bhutan",
-      duration: "Pre-7th century",
-      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bhutanese_dragon.svg",
+      name: "Batavian Tribes",
+      duration: "Pre-58 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Batavian_Horse.svg"
     },
     {
-      name: "Tibetan Influence Period",
-      duration: "7th – 9th century",
-      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tibetan_symbol.svg"
+      name: "Roman Rule",
+      duration: "58 BCE–5th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
     },
     {
-      name: "Lhomon Period",
-      duration: "9th – 12th century",
-      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bhutan_ancient_symbol.svg"
+      name: "Frankish Rule",
+      duration: "5th–10th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/93/Frankish_Fleur-de-lis.svg"
     },
     {
-      name: "Dual System of Government",
-      duration: "12th – 17th century",
-      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Bhutan_dual_system.svg"
+      name: "Dutch Republic",
+      duration: "1581–1795 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/20/Prinsenvlag.svg"
     },
     {
-      name: "Zhabdrung Era",
-      duration: "1616 – 1907",
-      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Zhabdrung_symbol.svg"
-    },
-    {
-      name: "Wangchuck Dynasty",
-      duration: "1907 – Present",
-      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg"
+      name: "Kingdom of the Netherlands",
+      duration: "1815–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
     }
   ],
-  
+  NewZealand: [
+    {
+      name: "Māori Settlement",
+      duration: "1250–1642 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Koru_symbol.svg"
+    },
+    {
+      name: "European Contact",
+      duration: "1642–1840 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "British Colony",
+      duration: "1840–1907 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Dominion of New Zealand",
+      duration: "1907–1947 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+    },
+    {
+      name: "Modern New Zealand",
+      duration: "1947–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
+    }
+  ],
+  Nicaragua: [
+    {
+      name: "Pre-Columbian Civilizations",
+      duration: "Pre-1524 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Nicarao_symbol.svg"
+    },
+    {
+      name: "Spanish Conquest",
+      duration: "1524–1821 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandera_de_Espa%C3%B1a_1760-1785.svg"
+    },
+    {
+      name: "Federal Republic of Central America",
+      duration: "1823–1838 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Flag_of_the_Federal_Republic_of_Central_America.svg"
+    },
+    {
+      name: "Modern Nicaragua",
+      duration: "1838–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg"
+    }
+  ],
+  Niger: [
+    {
+      name: "Prehistoric Cultures",
+      duration: "Pre-11th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Tenerian_culture_art.svg"
+    },
+    {
+      name: "Songhai Empire",
+      duration: "11th–16th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Songhai_Empire_Flag.svg"
+    },
+    {
+      name: "French West Africa",
+      duration: "1890–1960 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_France.svg"
+    },
+    {
+      name: "Modern Niger",
+      duration: "1960–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg"
+    }
+  ],
+  Nigeria: [
+    {
+      name: "Nok Culture",
+      duration: "1500 BCE–500 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Nok_terracotta_head.svg"
+    },
+    {
+      name: "Hausa Kingdoms",
+      duration: "11th–19th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Hausa_Kingdoms_emblem.svg"
+    },
+    {
+      name: "British Colony",
+      duration: "1884–1960 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Nigeria",
+      duration: "1960–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg"
+    }
+  ],
+  NorthMacedonia: [
+    {
+      name: "Paeonian Kingdoms",
+      duration: "Pre-168 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Ancient_Balkan_symbol.svg"
+    },
+    {
+      name: "Roman Province",
+      duration: "168 BCE–476 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
+    },
+    {
+      name: "Byzantine Rule",
+      duration: "476–7th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/74/Byzantine_Labarum.svg"
+    },
+    {
+      name: "First Bulgarian Empire",
+      duration: "7th–11th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/94/Bulgarian_Lion.svg"
+    },
+    {
+      name: "Ottoman Macedonia",
+      duration: "1395–1912 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ottoman_Tughra.svg"
+    },
+    {
+      name: "Yugoslav Era",
+      duration: "1918–1991 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Yugoslavia.svg"
+    },
+    {
+      name: "Modern North Macedonia",
+      duration: "1991–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg"
+    }
+  ],
+  Norway: [
+    {
+      name: "Viking Age",
+      duration: "793–1066 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Viking_ship.svg"
+    },
+    {
+      name: "Kalmar Union",
+      duration: "1397–1523 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/74/Kalmar_Union_Flag.svg"
+    },
+    {
+      name: "Denmark-Norway",
+      duration: "1523–1814 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Dano-Norwegian_Flag.svg"
+    },
+    {
+      name: "Union with Sweden",
+      duration: "1814–1905 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Union_Jack_of_Sweden_and_Norway.svg"
+    },
+    {
+      name: "Modern Norway",
+      duration: "1905–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg"
+    }
+  ],
+  //now countries that starts with letter 'O'
+  Oman: [
+    {
+      name: "Ancient Magan Civilization",
+      duration: "3000–500 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7d/Magan_civilization_symbol.svg"
+    },
+    {
+      name: "Persian Influence Period",
+      duration: "550 BCE–630 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Achaemenid_Eagle.svg"
+    },
+    {
+      name: "Islamic Oman",
+      duration: "630–1507 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Portuguese Occupation",
+      duration: "1507–1650 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+      name: "Yaruba Dynasty",
+      duration: "1624–1749 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/15/Yaruba_emblem.svg"
+    },
+    {
+      name: "Al Said Dynasty",
+      duration: "1749–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg"
+    }
+  ],
+  Pakistan: [
+    {
+      name: "Indus Valley Civilization",
+      duration: "3300–1300 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Indus_Valley_Civilization_Seal.svg"
+    },
+    {
+      name: "Gandhara Kingdom",
+      duration: "1500–535 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Gandhara_symbol.svg"
+    },
+    {
+      name: "Islamic Sultanates",
+      duration: "712–1857 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "British Raj",
+      duration: "1858–1947 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_British_East_India_Company.svg"
+    },
+    {
+      name: "Modern Pakistan",
+      duration: "1947–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
+    }
+  ],
+  Palau: [
+    {
+      name: "Ancient Palauan Chiefdoms",
+      duration: "Pre-16th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Palauan_wooden_charm.svg"
+    },
+    {
+      name: "Spanish Colonization",
+      duration: "1574–1899 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandera_de_Espa%C3%B1a_1760-1785.svg"
+    },
+    {
+      name: "German New Guinea",
+      duration: "1899–1914 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Germany_%281867–1918%29.svg"
+    },
+    {
+      name: "Japanese Mandate",
+      duration: "1914–1944 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg"
+    },
+    {
+      name: "US Trusteeship",
+      duration: "1944–1994 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    {
+      name: "Modern Palau",
+      duration: "1994–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg"
+    }
+  ],
+  Panama: [
+    {
+      name: "Indigenous Cultures",
+      duration: "Pre-1501 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ng%C3%A4be_art.svg"
+    },
+    {
+      name: "Spanish Colonization",
+      duration: "1501–1821 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandera_de_Espa%C3%B1a_1760-1785.svg"
+    },
+    {
+      name: "Gran Colombia",
+      duration: "1821–1831 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Gran_Colombia.svg"
+    },
+    {
+      name: "Colombian State",
+      duration: "1831–1903 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg"
+    },
+    {
+      name: "Modern Panama",
+      duration: "1903–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg"
+    }
+  ],
+  "Papua New Guinea": [
+    {
+      name: "Ancient Melanesian Cultures",
+      duration: "Pre-1526 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Melanesian_drum.svg"
+    },
+    {
+      name: "European Exploration",
+      duration: "1526–1884 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+      name: "German New Guinea",
+      duration: "1884–1914 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Germany_%281867–1918%29.svg"
+    },
+    {
+      name: "Australian Administration",
+      duration: "1914–1975 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia.svg"
+    },
+    {
+      name: "Modern Papua New Guinea",
+      duration: "1975–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
+    }
+  ],
+  Paraguay: [
+    {
+      name: "Guaraní Tribes",
+      duration: "Pre-1524 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Guarani_symbol.svg"
+    },
+    {
+      name: "Spanish Colonization",
+      duration: "1524–1811 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandera_de_Espa%C3%B1a_1760-1785.svg"
+    },
+    {
+      name: "Francia Dictatorship",
+      duration: "1814–1840 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Paraguay_%281813-1840%29.svg"
+    },
+    {
+      name: "Modern Paraguay",
+      duration: "1842–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg"
+    }
+  ],
+  Peru: [
+    {
+      name: "Norte Chico Civilization",
+      duration: "3500–1800 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Norte_Chico_quipu.svg"
+    },
+    {
+      name: "Inca Empire",
+      duration: "1438–1533 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Inti_sun_symbol.svg"
+    },
+    {
+      name: "Spanish Viceroyalty",
+      duration: "1533–1824 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandera_de_Espa%C3%B1a_1760-1785.svg"
+    },
+    {
+      name: "Modern Peru",
+      duration: "1824–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg"
+    }
+  ],
+  Philippines: [
+    {
+      name: "Pre-Colonial Kingdoms",
+      duration: "Pre-1521 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Laguna_Copperplate_Inscription.svg"
+    },
+    {
+      name: "Spanish Colonization",
+      duration: "1521–1898 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandera_de_Espa%C3%B1a_1760-1785.svg"
+    },
+    {
+      name: "American Period",
+      duration: "1898–1946 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    },
+    {
+      name: "Modern Philippines",
+      duration: "1946–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg"
+    }
+  ],
+  Poland: [
+    {
+      name: "Piast Dynasty",
+      duration: "960–1385 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Piast_Eagle.svg"
+    },
+    {
+      name: "Jagiellonian Dynasty",
+      duration: "1385–1572 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/61/Jagiellonian_Eagle.svg"
+    },
+    {
+      name: "Polish-Lithuanian Commonwealth",
+      duration: "1569–1795 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6f/Coat_of_arms_of_Poland-Lithuania.svg"
+    },
+    {
+      name: "Partitions Period",
+      duration: "1795–1918 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/12/Partitions_of_Poland_map.svg"
+    },
+    {
+      name: "Modern Poland",
+      duration: "1918–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg"
+    }
+  ],
+  Portugal: [
+    {
+      name: "Lusitanian Tribes",
+      duration: "Pre-218 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Celtic_Knot.svg"
+    },
+    {
+      name: "Roman Hispania",
+      duration: "218 BCE–5th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
+    },
+    {
+      name: "Kingdom of Portugal",
+      duration: "1139–1910 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal_%281830-1910%29.svg"
+    },
+    {
+      name: "Modern Portugal",
+      duration: "1910–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    }
+  ],
+  //now countries that starts with letter 'Q'
+  Qatar: [
+    {
+      name: "Pre-Islamic Qatar",
+      duration: "Until 628 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/65/Bronze_Age_Gulf_pottery.svg"
+    },
+    {
+      name: "Islamic Period",
+      duration: "628–1515 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Portuguese Rule",
+      duration: "1515–1538 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+      name: "Ottoman Influence",
+      duration: "1538–1916 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ottoman_Tughra.svg"
+    },
+    {
+      name: "British Protectorate",
+      duration: "1916–1971 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Qatar",
+      duration: "1971–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg"
+    }
+  ],
+  //now countries that starts with letter 'R'
+  Romania: [
+    {
+      name: "Dacian Kingdoms",
+      duration: "1st century BCE – 106 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Dacian_Draco.svg"
+    },
+    {
+      name: "Roman Dacia",
+      duration: "106–271 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
+    },
+    {
+      name: "Principality of Wallachia",
+      duration: "1330–1859 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/13/Coat_of_arms_of_Wallachia.svg"
+    },
+    {
+      name: "Principality of Moldavia",
+      duration: "1346–1859 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Coat_of_arms_of_Moldavia.svg"
+    },
+    {
+      name: "United Principalities",
+      duration: "1859–1881 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania_%281859-1862%29.svg"
+    },
+    {
+      name: "Kingdom of Romania",
+      duration: "1881–1947 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania_%281881-1921%29.svg"
+    },
+    {
+      name: "Communist Romania",
+      duration: "1947–1989 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Romania_%281948-1952%29.svg"
+    },
+    {
+      name: "Modern Romania",
+      duration: "1989–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg"
+    }
+  ],
+  Russia: [
+    {
+      name: "Kievan Rus'",
+      duration: "882–1240 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Kievan_Rus.svg"
+    },
+    {
+      name: "Mongol Yoke",
+      duration: "1240–1480 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/35/Flag_of_the_Golden_Horde.svg"
+    },
+    {
+      name: "Tsardom of Russia",
+      duration: "1547–1721 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Imperial_Coat_of_Arms_of_Russia.svg"
+    },
+    {
+      name: "Russian Empire",
+      duration: "1721–1917 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Imperial_Coat_of_Arms_of_Russia.svg"
+    },
+    {
+      name: "Soviet Union",
+      duration: "1922–1991 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Emblem_of_the_Soviet_Union.svg"
+    },
+    {
+      name: "Modern Russia",
+      duration: "1991–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    }
+  ],
+  Rwanda: [
+    {
+      name: "Kingdom of Rwanda",
+      duration: "15th century – 1897 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/17/Rwandan_drum.svg"
+    },
+    {
+      name: "German East Africa",
+      duration: "1897–1916 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Germany_%281867–1918%29.svg"
+    },
+    {
+      name: "Belgian Rule",
+      duration: "1916–1962 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg"
+    },
+    {
+      name: "Modern Rwanda",
+      duration: "1962–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg"
+    }
+  ],
+  //now countries that starts with letter 'S'
+  "Saint Kitts and Nevis": [
+    {
+      name: "Kalina and Carib Inhabitants",
+      duration: "Pre-1493 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arawak_Symbol.svg"
+    },
+    {
+      name: "British Colony",
+      duration: "1623–1983 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Saint Kitts and Nevis",
+      duration: "1983–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg"
+    }
+  ],
+  "Saint Lucia": [
+    {
+      name: "Arawak and Carib Period",
+      duration: "Pre-1500 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arawak_Symbol.svg"
+    },
+    {
+      name: "Colonial Period",
+      duration: "1605–1979 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Saint Lucia",
+      duration: "1979–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg"
+    }
+  ],
+  "Saint Vincent and the Grenadines": [
+    {
+      name: "Carib Territory",
+      duration: "Pre-1719 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arawak_Symbol.svg"
+    },
+    {
+      name: "British Rule",
+      duration: "1719–1979 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Saint Vincent and the Grenadines",
+      duration: "1979–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg"
+    }
+  ],
+  Samoa: [
+    {
+      name: "Ancient Samoa",
+      duration: "Pre-950 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/31/Samoan_Tapa_Design.svg"
+    },
+    {
+      name: "Malo Sa",
+      duration: "950–1250 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/31/Samoan_Tapa_Design.svg"
+    },
+    {
+      name: "German Samoa",
+      duration: "1900–1914 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Flag_of_Germany_1867-1918.svg"
+    },
+    {
+      name: "Modern Samoa",
+      duration: "1962–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
+    }
+  ],
+  "San Marino": [
+    {
+      name: "Founding Period",
+      duration: "301 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_arms_of_San_Marino.svg"
+    },
+    {
+      name: "Medieval Commune",
+      duration: "1000–1463 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/53/Coat_of_arms_of_San_Marino.svg"
+    },
+    {
+      name: "Modern San Marino",
+      duration: "1463–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg"
+    }
+  ],
+  "Sao Tome And Principe": [
+    {
+      name: "Uninhabited Period",
+      duration: "Pre-1470 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Blank.svg"
+    },
+    {
+      name: "Portuguese Colony",
+      duration: "1470–1975 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+      name: "Modern São Tomé and Príncipe",
+      duration: "1975–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg"
+    }
+  ],
+  "Saudi Arabia": [
+    {
+      name: "Pre-Islamic Arabia",
+      duration: "Pre-7th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Arabian_Petroglyph.svg"
+    },
+    {
+      name: "Rashidun Caliphate",
+      duration: "632–661 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Ottoman Hejaz",
+      duration: "1517–1916 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ottoman_Tughra.svg"
+    },
+    {
+      name: "First Saudi State",
+      duration: "1744–1818 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0d/First_Saudi_State_Flag.svg"
+    },
+    {
+      name: "Modern Saudi Arabia",
+      duration: "1932–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg"
+    }
+  ],
+  Senegal: [
+    {
+      name: "Ghana Empire",
+      duration: "300–1200 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Ghana_Empire_Flag.svg"
+    },
+    {
+      name: "Mali Empire",
+      duration: "1230–1670 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7f/Mali_Empire_Flag.svg"
+    },
+    {
+      name: "French Colonization",
+      duration: "1677–1960 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_France.svg"
+    },
+    {
+      name: "Modern Senegal",
+      duration: "1960–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg"
+    }
+  ],
+  Serbia: [
+    {
+      name: "Roman Moesia",
+      duration: "29 BCE–4th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
+    },
+    {
+      name: "Serbian Principality",
+      duration: "768–1217 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Serbian_Cross.svg"
+    },
+    {
+      name: "Serbian Empire",
+      duration: "1346–1371 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/1e/Serbian_Cross.svg"
+    },
+    {
+      name: "Ottoman Serbia",
+      duration: "1459–1817 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ottoman_Tughra.svg"
+    },
+    {
+      name: "Modern Serbia",
+      duration: "2006–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Flag_of_Serbia.svg"
+    }
+  ],
+  Seychelles: [
+    {
+      name: "Uninhabited Period",
+      duration: "Pre-1756 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Blank.svg"
+    },
+    {
+      name: "French Colony",
+      duration: "1756–1811 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_France.svg"
+    },
+    {
+      name: "British Colony",
+      duration: "1811–1976 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Seychelles",
+      duration: "1976–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg"
+    }
+  ],
+  "Sierra Leone": [
+    {
+      name: "Indigenous Kingdoms",
+      duration: "Pre-1462 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/African_Adinkra_Symbol.svg"
+    },
+    {
+      name: "Portuguese Contact",
+      duration: "1462–1787 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg"
+    },
+    {
+      name: "British Colony",
+      duration: "1787–1961 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Sierra Leone",
+      duration: "1961–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg"
+    }
+  ],
+  Singapore: [
+    {
+      name: "Ancient Temasek",
+      duration: "Pre-14th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lion_of_Singapore.svg"
+    },
+    {
+      name: "British Colony",
+      duration: "1819–1963 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Singapore",
+      duration: "1965–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg"
+    }
+  ],
+  Slovakia: [
+    {
+      name: "Great Moravia",
+      duration: "833–907 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Great_Moravia_Cross.svg"
+    },
+    {
+      name: "Kingdom of Hungary",
+      duration: "1000–1918 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4f/HRE_Double_Eagle.svg"
+    },
+    {
+      name: "Czechoslovakia",
+      duration: "1918–1993 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_Czechoslovakia.svg"
+    },
+    {
+      name: "Modern Slovakia",
+      duration: "1993–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg"
+    }
+  ],
+  Slovenia: [
+    {
+      name: "Roman Noricum",
+      duration: "1st–5th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
+    },
+    {
+      name: "Carantania",
+      duration: "658–828 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Carantanian_Symbol.svg"
+    },
+    {
+      name: "Habsburg Rule",
+      duration: "1335–1918 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Habsburg_Lion.svg"
+    },
+    {
+      name: "Modern Slovenia",
+      duration: "1991–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg"
+    }
+  ],
+  "Solomon Islands": [
+    {
+      name: "Lapita Culture",
+      duration: "1600–500 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Lapita_Pottery.svg"
+    },
+    {
+      name: "British Protectorate",
+      duration: "1893–1978 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Solomon Islands",
+      duration: "1978–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg"
+    }
+  ],
+  Somalia: [
+    {
+      name: "Land of Punt",
+      duration: "2500–980 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Punt_Relief.svg"
+    },
+    {
+      name: "Sultanates Period",
+      duration: "9th–19th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Italian Somaliland",
+      duration: "1889–1960 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy_%281861-1946%29.svg"
+    },
+    {
+      name: "Modern Somalia",
+      duration: "1960–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg"
+    }
+  ],
+  "South Africa": [
+    {
+      name: "Khoisan Period",
+      duration: "Pre-1652 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/African_Rock_Art.svg"
+    },
+    {
+      name: "Dutch Colonization",
+      duration: "1652–1806 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    },
+    {
+      name: "British Rule",
+      duration: "1806–1910 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern South Africa",
+      duration: "1910–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg"
+    }
+  ],
+  "South Sudan": [
+    {
+      name: "Nilotic Kingdoms",
+      duration: "Pre-1821 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/African_Adinkra_Symbol.svg"
+    },
+    {
+      name: "Anglo-Egyptian Sudan",
+      duration: "1899–1956 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern South Sudan",
+      duration: "2011–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg"
+    }
+  ],
+  Spain: [
+    {
+      name: "Iberian Tribes",
+      duration: "Pre-218 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Celtic_Knot.svg"
+    },
+    {
+      name: "Roman Hispania",
+      duration: "218 BCE–5th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
+    },
+    {
+      name: "Al-Andalus",
+      duration: "711–1492 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Spanish Empire",
+      duration: "1492–1898 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/3f/Bandera_de_Espa%C3%B1a_1760-1785.svg"
+    },
+    {
+      name: "Modern Spain",
+      duration: "1975–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg"
+    }
+  ],
+  "Sri Lanka": [
+    {
+      name: "Anuradhapura Kingdom",
+      duration: "377 BCE–1017 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lion_of_Sri_Lanka.svg"
+    },
+    {
+      name: "Polonnaruwa Kingdom",
+      duration: "1017–1232 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Lion_of_Sri_Lanka.svg"
+    },
+    {
+      name: "Colonial Period",
+      duration: "1505–1948 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Sri Lanka",
+      duration: "1948–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg"
+    }
+  ],
+  Sudan: [
+    {
+      name: "Kingdom of Kush",
+      duration: "1070 BCE–350 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5d/Pyramid_of_Meroe.svg"
+    },
+    {
+      name: "Islamic Sultanates",
+      duration: "9th–19th century CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Anglo-Egyptian Sudan",
+      duration: "1899–1956 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Modern Sudan",
+      duration: "1956–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg"
+    }
+  ],
+  Suriname: [
+    {
+      name: "Indigenous Period",
+      duration: "Pre-1499 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Arawak_Symbol.svg"
+    },
+    {
+      name: "Dutch Colony",
+      duration: "1667–1975 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg"
+    },
+    {
+      name: "Modern Suriname",
+      duration: "1975–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg"
+    }
+  ],
+  Sweden: [
+    {
+      name: "Viking Age",
+      duration: "793–1066 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Viking_Ship_Symbol.svg"
+    },
+    {
+      name: "Kalmar Union",
+      duration: "1397–1523 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Kalmar_Union_Flag.svg"
+    },
+    {
+      name: "Swedish Empire",
+      duration: "1611–1721 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Coat_of_arms_of_Sweden.svg"
+    },
+    {
+      name: "Modern Sweden",
+      duration: "1905–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Sweden.svg"
+    }
+  ],
+  Switzerland: [
+    {
+      name: "Old Swiss Confederacy",
+      duration: "1291–1798 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/08/Swiss_Cross.svg"
+    },
+    {
+      name: "Helvetic Republic",
+      duration: "1798–1803 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_France.svg"
+    },
+    {
+      name: "Swiss Confederation",
+      duration: "1848–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland.svg"
+    }
+  ],
+  Syria: [
+    {
+      name: "Aramean Kingdoms",
+      duration: "11th–8th century BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Aramean_Lion.svg"
+    },
+    {
+      name: "Roman Syria",
+      duration: "64 BCE–636 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/df/Roman_Eagle.svg"
+    },
+    {
+      name: "Umayyad Caliphate",
+      duration: "661–750 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Ottoman Syria",
+      duration: "1516–1918 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/ee/Ottoman_Tughra.svg"
+    },
+    {
+      name: "Modern Syria",
+      duration: "1946–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
+    }
+  ],
+  //now countries that starts with letter 'T'
 };
 
 export default empireData;
