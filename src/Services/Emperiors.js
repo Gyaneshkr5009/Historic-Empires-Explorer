@@ -4126,6 +4126,524 @@ const empireData = {
     }
   ],
   //now countries that starts with letter 'T'
+  Taiwan: [
+    {
+      name: "Dutch Formosa",
+      duration: "1624–1662 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_the_Dutch_East_India_Company.svg"
+    },
+    {
+      name: "Kingdom of Tungning",
+      duration: "1662–1683 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Flag_of_the_Kingdom_of_Tungning.svg"
+    },
+    {
+      name: "Qing Dynasty Rule",
+      duration: "1683–1895 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Flag_of_the_Qing_Dynasty.svg"
+    },
+    {
+      name: "Japanese Rule",
+      duration: "1895–1945 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan_%281870–1999%29.svg"
+    },
+    {
+      name: "Republic of China (Taiwan)",
+      duration: "1949–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_the_Republic_of_China.svg"
+    }
+  ],
+  Tajikistan: [
+    {
+      name: "Samanid Empire",
+      duration: "819–999 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Samanid_Empire_Map.PNG"
+    },
+    {
+      name: "Timurid Empire",
+      duration: "1370–1507 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/09/Tamerlane_flag.svg"
+    },
+    {
+      name: "Russian Empire Rule",
+      duration: "1868–1917 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    {
+      name: "Soviet Union (Tajik SSR)",
+      duration: "1929–1991 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_the_Tajik_SSR.svg"
+    },
+    {
+      name: "Republic of Tajikistan",
+      duration: "1991–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg"
+    }
+  ],
+  Tanzania: [
+    {
+      name: "Sultanate of Zanzibar",
+      duration: "1856–1964 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_the_Sultanate_of_Zanzibar.svg"
+    },
+    {
+      name: "German East Africa",
+      duration: "1885–1918 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/65/Reichskolonialflagge.svg"
+    },
+    {
+      name: "British Tanganyika",
+      duration: "1919–1961 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "United Republic of Tanzania",
+      duration: "1964–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg"
+    }
+  ],
+  Thailand: [
+    {
+      name: "Sukhothai Kingdom",
+      duration: "1238–1438 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/14/Thai_Kingdoms_Sukhothai_seal.svg"
+    },
+    {
+      name: "Ayutthaya Kingdom",
+      duration: "1350–1767 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Ayutthaya_Kingdom_emblem.svg"
+    },
+    {
+      name: "Thonburi Kingdom",
+      duration: "1767–1782 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/24/Thonburi_Kingdom_emblem.svg"
+    },
+    {
+      name: "Rattanakosin Kingdom (Modern Thailand)",
+      duration: "1782–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg"
+    }
+  ],
+  Togo: [
+    {
+      name: "German Togoland",
+      duration: "1884–1914 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/65/Reichskolonialflagge.svg"
+    },
+    {
+      name: "French Togoland",
+      duration: "1916–1960 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+      name: "Republic of Togo",
+      duration: "1960–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg"
+    }
+  ],
+  Tonga: [
+    {
+      name: "Tongan Empire (Tu'i Tonga)",
+      duration: "c. 950–1865 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/02/Tu%27i_Tonga_Empire_Map.png"
+    },
+    {
+      name: "Constitutional Monarchy of Tonga",
+      duration: "1875–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg"
+    }
+  ],
+  "Trinidad and Tobago": [
+    {
+      name: "Spanish Rule",
+      duration: "1498–1797 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Spain_%281765–1785%29.svg"
+    },
+    {
+      name: "British Colonial Rule",
+      duration: "1797–1962 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Republic of Trinidad and Tobago",
+      duration: "1962–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg"
+    }
+  ],
+  Tunisia: [
+    {
+      name: "Carthaginian Empire",
+      duration: "c. 650–146 BCE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Carthage_symbol.svg"
+    },
+    {
+      name: "Roman Province of Africa",
+      duration: "146 BCE – 439 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/2b/Flag_of_the_Roman_Empire.svg"
+    },
+    {
+      name: "Islamic Caliphates",
+      duration: "647–800 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Black_Standard.svg"
+    },
+    {
+      name: "Ottoman Tunisia",
+      duration: "1574–1881 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_the_Ottoman_Empire.svg"
+    },
+    {
+      name: "French Protectorate",
+      duration: "1881–1956 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg"
+    },
+    {
+      name: "Republic of Tunisia",
+      duration: "1957–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg"
+    }
+  ],
+  Turkey: [
+    {
+      name: "Byzantine Empire",
+      duration: "330–1453 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Byzantine_flag.svg"
+    },
+    {
+      name: "Seljuk Empire",
+      duration: "1037–1194 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Seljuk_Eagle.png"
+    },
+    {
+      name: "Ottoman Empire",
+      duration: "1299–1922 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_the_Ottoman_Empire.svg"
+    },
+    {
+      name: "Republic of Turkey",
+      duration: "1923–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg"
+    }
+  ],
+  Turkmenistan: [
+    {
+      name: "Seljuk Empire",
+      duration: "1037–1194 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Seljuk_Eagle.png"
+    },
+    {
+      name: "Khanate of Khiva",
+      duration: "1511–1920 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Khiva_Khanate_Flag.svg"
+    },
+    {
+      name: "Soviet Union (Turkmen SSR)",
+      duration: "1924–1991 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/16/Flag_of_the_Turkmen_SSR.svg"
+    },
+    {
+      name: "Republic of Turkmenistan",
+      duration: "1991–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg"
+    }
+  ],
+  Tuvalu: [
+    {
+      name: "British Colony (Gilbert and Ellice Islands)",
+      duration: "1916–1975 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Independent Tuvalu",
+      duration: "1978–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg"
+    }
+  ],
+  //now countries that starts with letter 'U'
+  Uganda: [
+    {
+      name: "Kingdom of Buganda",
+      duration: "14th century–1894 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_the_Kingdom_of_Buganda.svg"
+    },
+    {
+      name: "British Protectorate",
+      duration: "1894–1962 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Republic of Uganda",
+      duration: "1962–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg"
+    }
+  ],
+  Ukraine: [
+    {
+      name: "Kievan Rus'",
+      duration: "882–1240 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tryzub.svg"
+    },
+    {
+      name: "Polish-Lithuanian Commonwealth",
+      duration: "1569–1795 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/1/12/Chorągiew_króla_Zygmunta_III_Wazy.svg"
+    },
+    {
+      name: "Russian Empire",
+      duration: "1793–1917 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    {
+      name: "Soviet Ukraine (Ukrainian SSR)",
+      duration: "1922–1991 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_the_Ukrainian_SSR.svg"
+    },
+    {
+      name: "Independent Ukraine",
+      duration: "1991–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg"
+    }
+  ],
+  United_Arab_Emirates: [
+    {
+      name: "Trucial States (British Protectorate)",
+      duration: "1820–1971 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "United Arab Emirates",
+      duration: "1971–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg"
+    }
+  ],
+  United_Kingdom: [
+    {
+      name: "Kingdom of England",
+      duration: "927–1707 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg"
+    },
+    {
+      name: "Kingdom of Great Britain",
+      duration: "1707–1801 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Great_Britain_%281707–1800%29.svg"
+    },
+    {
+      name: "British Empire",
+      duration: "1583–1997 CE (peak in 1920s)",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "United Kingdom",
+      duration: "1801–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    }
+  ],
+  United_States: [
+    {
+      name: "Thirteen Colonies",
+      duration: "1607–1776 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/25/Grand_Union_Flag.svg"
+    },
+    {
+      name: "United States of America",
+      duration: "1776–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg"
+    }
+  ],
+  Uruguay: [
+    {
+      name: "Spanish Colonial Rule",
+      duration: "1726–1811 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Spain_%281765–1785%29.svg"
+    },
+    {
+      name: "Portuguese/Brazilian Rule",
+      duration: "1816–1828 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_the_United_Kingdom_of_Portugal%2C_Brazil%2C_and_the_Algarves.svg"
+    },
+    {
+      name: "Republic of Uruguay",
+      duration: "1828–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg"
+    }
+  ],
+  Uzbekistan: [
+    {
+      name: "Samanid Empire",
+      duration: "819–999 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Samanid_Empire_Map.PNG"
+    },
+    {
+      name: "Timurid Empire",
+      duration: "1370–1507 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/09/Tamerlane_flag.svg"
+    },
+    {
+      name: "Khanate of Bukhara",
+      duration: "1500–1785 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/60/Bukhara_emirate_flag.svg"
+    },
+    {
+      name: "Russian Empire/Soviet Union",
+      duration: "1868–1991 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Russia.svg"
+    },
+    {
+      name: "Republic of Uzbekistan",
+      duration: "1991–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg"
+    }
+  ],
+  //now countries that starts with letter 'V'
+  Vanuatu: [
+    {
+      name: "French and British Condominium (New Hebrides)",
+      duration: "1906–1980 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Republic of Vanuatu",
+      duration: "1980–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Vanuatu.svg"
+    }
+  ],
+  "Vatican City": [
+    {
+      name: "Papal States",
+      duration: "756–1870 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_the_Papal_States_%281801-1870%29.svg"
+    },
+    {
+      name: "Vatican City (independent)",
+      duration: "1929–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg"
+    }
+  ],
+  Venezuela: [
+    {
+      name: "Spanish Colonial Rule",
+      duration: "1522–1810 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Spain_%281765–1785%29.svg"
+    },
+    {
+      name: "First Republic of Venezuela",
+      duration: "1811–1812 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_the_First_Republic_of_Venezuela.svg"
+    },
+    {
+      name: "Second Republic",
+      duration: "1813–1814 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_the_Second_Republic_of_Venezuela.svg"
+    },
+    {
+      name: "Gran Colombia (with Colombia, Ecuador)",
+      duration: "1819–1830 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_Gran_Colombia.svg"
+    },
+    {
+      name: "Republic of Venezuela",
+      duration: "1830–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Venezuela.svg"
+    }
+  ],
+  Vietnam: [
+    {
+      name: "Pôc Lý–Trần Dynasties",
+      duration: "980–1400 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Ly_Tr%E1%BA%A7n_dynasties_emblem.svg"
+    },
+    {
+      name: "Later Lê dynasty",
+      duration: "1428–1789 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/c/cf/L%C3%AA_dynasty_emblem.svg"
+    },
+    {
+      name: "Nguyễn Lords",
+      duration: "1558–1777 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_the_Nguy%E1%BB%85n_Lords.svg"
+    },
+    {
+      name: "Tây Sơn Rebellion",
+      duration: "1771–1802 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_the_T%C3%A2y_S%C6%A1n_dynasty.svg"
+    },
+    {
+      name: "Nguyễn Dynasty",
+      duration: "1802–1945 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/7/72/Flag_of_Vietnam_%281839%E2%80%931945%29.svg"
+    },
+    {
+      name: "Democratic Republic / Socialist Republic of Vietnam",
+      duration: "1945–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg"
+    }
+  ],
+  //now countries that starts with letter 'Y'
+  Yemen: [
+    {
+      name: "Himyarite Kingdom",
+      duration: "110 BCE – 525 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/8/8a/Himyarite_Kingdom.png"
+    },
+    {
+      name: "Rassid Imamate (Zaydi State)",
+      duration: "897–1962 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Mutawakkilite_Kingdom_of_Yemen.svg"
+    },
+    {
+      name: "British Aden Protectorate (South Yemen)",
+      duration: "1839–1967 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Yemen Arab Republic (North Yemen)",
+      duration: "1962–1990 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Yemen_Arab_Republic.svg"
+    },
+    {
+      name: "People’s Democratic Republic of Yemen (South Yemen)",
+      duration: "1967–1990 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_South_Yemen.svg"
+    },
+    {
+      name: "Republic of Yemen",
+      duration: "1990–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg"
+    }
+  ],
+  Zambia: [
+    {
+      name: "British Protectorate (Northern Rhodesia)",
+      duration: "1911–1964 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_Northern_Rhodesia_%281924%E2%80%931963%29.svg"
+    },
+    {
+      name: "Republic of Zambia",
+      duration: "1964–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg"
+    }
+  ],
+  Zimbabwe: [
+    {
+      name: "Kingdom of Zimbabwe",
+      duration: "1220–1450 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/5/56/Great_Zimbabwe_ruins.jpg"
+    },
+    {
+      name: "British South Africa Company Rule",
+      duration: "1890–1923 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/a/ae/Flag_of_the_United_Kingdom.svg"
+    },
+    {
+      name: "Southern Rhodesia",
+      duration: "1923–1980 CE",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Southern_Rhodesia_%281923–1953%29.svg"
+    },
+    {
+      name: "Republic of Zimbabwe",
+      duration: "1980–Present",
+      emblem: "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg"
+    }
+  ]
 };
 
 export default empireData;
